@@ -1,18 +1,19 @@
-## Getting Started
+## Juego Space Ship Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+El juego Space Ship Game basado en el jugeo Galaga
 
-## Folder Structure
+## Tecnología utilizadas
 
-The workspace contains two folders by default, where:
+Las tecnologías utilizadas para este proyecto son:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- HTML5
+- CSS
+- JavaScript
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Se utilizo canvas para manejar el área de juego
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+## Video Turoriañ
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+El video en el que base en hacer este juego es este: 
+- [Juego de NAVES con JavaScript y HTML5 | JavaScript spaceship game]([[https://youtu.be/4LhQtuEzOU8?si=4fUjOMjVSG-wLNLY](https://youtu.be/DkeG4MVeNzI?si=iZ1CsrKsVMXOC2_x)https://youtu.be/DkeG4MVeNzI?si=iZ1CsrKsVMXOC2_x]
