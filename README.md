@@ -17,6 +17,7 @@ Se utilizo canvas para manejar el área de juego
 
 El video en el que base en hacer este juego es este: 
 - [Juego de NAVES con JavaScript y HTML5 | JavaScript spaceship game]([[https://youtu.be/DkeG4MVeNzI?si=cVjHdyL-haff9K_m])
+- https://youtu.be/DkeG4MVeNzI?si=rGEoxGWE10SZJdq1
 
 ## Juego
 - https://gusdamian04.github.io/space-ship-game/
