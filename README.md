@@ -13,7 +13,10 @@ Las tecnologías utilizadas para este proyecto son:
 Se utilizo canvas para manejar el área de juego
 
 
-## Video Turoriañ
+## Video Turorial
 
 El video en el que base en hacer este juego es este: 
-- [Juego de NAVES con JavaScript y HTML5 | JavaScript spaceship game]([[https://youtu.be/4LhQtuEzOU8?si=4fUjOMjVSG-wLNLY]
+- [Juego de NAVES con JavaScript y HTML5 | JavaScript spaceship game]([[https://youtu.be/DkeG4MVeNzI?si=cVjHdyL-haff9K_m])
+
+## Juego
+- https://gusdamian04.github.io/space-ship-game/
